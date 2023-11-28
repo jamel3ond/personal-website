@@ -1,0 +1,28 @@
+languageCode: en-us
+title: Thanapat Kittitammanan
+theme: "PaperMod"
+menu:
+  main:
+    - name: About
+      url: about
+
+params:
+   profileMode:
+    enabled: true
+    subtitle: "Cloud Solution Architect at Innopia"
+    imageUrl: "images/my-pic.png"
+    imageWidth: 300
+    imageHeight: 300
+
+   socialIcons:
+     - name: github
+       url:  "https://www.github.com/jamel3ond"
+     - name: "email"
+       url: "mailto:thanapat__k@hotmail.com"
+     - name: linkedin
+       url:  "https://www.linkedin.com/in/thanapat-kit"
+     - name: spotify
+       url:  "https://open.spotify.com/user/fvwt5cnyr4szhh4g8ft10e1z6"
+
+   displayFullLangName: true
+   defaultTheme: auto
