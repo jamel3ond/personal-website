@@ -15,11 +15,10 @@ jobs:
           submodules: true
 
       - name: Checkout destination
-        uses: actions/checkout@v2
-        with:
-          ref: ${{ github.event.pull_request.head.ref }}
+        uses: actions/checkout@v3
         if: github.ref == 'refs/heads/main'
         with:
+          ref: ${{ github.event.pull_request.head.ref }}
           ref: gh-pages
           path: built-site
 
