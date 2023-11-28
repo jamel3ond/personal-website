@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Thanapat Kittitammanan</title>
+    <link>https://thanapatkit.github.io/personal-website/</link>
+    <description>Recent content on Thanapat Kittitammanan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://thanapatkit.github.io/personal-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://thanapatkit.github.io/personal-website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thanapatkit.github.io/personal-website/about/</guid>
+      <description>Hi,👋
+I&amp;rsquo;m Thanapat, a Cloud Solution Architect based in Thailand. I hold an B.S. in Computer Science from Burapha University
+I&amp;rsquo;m passionate about video games and traveling.I love to play Valorant, CSGO, and Defense Derby.</description>
+    </item>
+    
+  </channel>
+</rss>
