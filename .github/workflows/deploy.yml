@@ -36,5 +36,5 @@ jobs:
           git add .
           git config user.name 'thanapatkit'
           git config user.email 'jamebond_@hotmail.co.th"
-          git commit -m 'Updated site'
+          git commit -m 'Updated!'
           git push          
