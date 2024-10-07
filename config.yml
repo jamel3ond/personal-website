@@ -10,7 +10,7 @@ menu:
 params:
    profileMode:
     enabled: true
-    subtitle: "Cloud Solution Architect at Innopia"
+    subtitle: "Cloud Solution Architect at SCBX"
     imageUrl: "images/my-pic.png"
     imageWidth: 300
     imageHeight: 300
